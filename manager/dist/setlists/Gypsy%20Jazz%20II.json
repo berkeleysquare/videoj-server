@@ -1,0 +1,142 @@
+{
+  "setList": [
+    {
+      "id": 4660,
+      "title": "I'm Not That Girl",
+      "description": "Beautiful ballad from \"Wicked\"",
+      "ensemble": "jk_solo",
+      "media": "YouTube:iGXrg6zlu8w",
+      "composer": "Steven Schwartz",
+      "copyright": "2003",
+      "poster": "I'mNotThatGirl2025.jpg",
+      "recorded": "2025-02-24",
+      "collection": "coffeehouse",
+      "album": "The Coffeehouse"
+    },
+    {
+      "id": 4500,
+      "title": "Summer Wind",
+      "description": "",
+      "ensemble": "jk_solo",
+      "media": "YouTube:356CloZUxDo",
+      "composer": "Heinz Meier and Hans Bradtke. English lyrics Johnny Mercer",
+      "copyright": "1965",
+      "poster": "SummerWind2024.jpg",
+      "recorded": "2024-06-03",
+      "collection": "coffeehouse",
+      "album": "The Coffeehouse"
+    },
+    {
+      "id": 4400,
+      "title": "Misty",
+      "description": "",
+      "ensemble": "jk_solo",
+      "media": "YouTube:ah2pW-nN58s",
+      "composer": "Errol Garner",
+      "copyright": "1952",
+      "poster": "Misty2024.jpg",
+      "recorded": "2024-03-25",
+      "collection": "coffeehouse",
+      "album": "The Coffeehouse"
+    },
+    {
+      "id": 3870,
+      "title": "I'll Be Seeing You",
+      "description": "Stolen (er, 'adapted from') a Robin Nolan Gypsy Jazz Etude.",
+      "ensemble": "jk_solo",
+      "media": "IllBeSeeingYou.mp4",
+      "composer": "Sammy Fain, Irving Kahal",
+      "copyright": "1938",
+      "poster": "IllBeSeeingYou.jpg",
+      "recorded": "2022-07-31",
+      "collection": "coffeehouse"
+    },
+    {
+      "id": 4300,
+      "title": "Embraceable You",
+      "description": "",
+      "ensemble": "jk_solo",
+      "media": "YouTube:OrzwEwxLHZU",
+      "composer": "George & Ira Gerschwin",
+      "copyright": "1928",
+      "poster": "EmbraceableYou2023.jpg",
+      "recorded": "2023-12-24",
+      "collection": "coffeehouse",
+      "album": "The Coffeehouse"
+    },
+    {
+      "id": 4650,
+      "title": "Danse Norvégienne",
+      "description": "Django's write variations on Edvard Grieg's \"Norwegian Dance Number 2.\" Here are my variations on Robin Nolan's and Ian Date's variations.",
+      "ensemble": "jk_solo",
+      "media": "YouTube:WpcKCJyWMzE",
+      "composer": "Django Reinhardt and Stéphane Grappelli",
+      "copyright": "1949",
+      "poster": "DanseNorvegienne2025.jpg",
+      "recorded": "2025-02-02",
+      "collection": "coffeehouse",
+      "album": "The Coffeehouse"
+    },
+    {
+      "id": 4600,
+      "title": "If You Never Come to Me",
+      "description": "Inútil Paisagem",
+      "ensemble": "jk_solo",
+      "media": "YouTube:3yxxDciY9Dw",
+      "composer": "Antonio Carlos Jobim",
+      "copyright": "1964",
+      "poster": "IfYouNever2024.jpg",
+      "recorded": "2024-11-16",
+      "collection": "coffeehouse",
+      "album": "The Coffeehouse"
+    },
+    {
+      "id": 3920,
+      "title": "Witchcraft",
+      "ensemble": "jk_solo",
+      "media": "Witchcraft2022.mp4",
+      "composer": "Cy Coleman, Carolyn Leigh",
+      "copyright": "1957",
+      "poster": "Witchcraft2022.jpg",
+      "recorded": "2022-09-05",
+      "collection": "coffeehouse"
+    },
+    {
+      "id": 4090,
+      "title": "Shadow of Your Smile",
+      "description": "For Howard & Pam",
+      "ensemble": "jk_solo",
+      "media": "YouTube:CeaZC8Fh6jQ",
+      "composer": "Johnny Mandel, Paul Francis Webster",
+      "copyright": "1965",
+      "poster": "ShadowOfYourSmile.jpg",
+      "recorded": "2023-05-08",
+      "collection": "",
+      "album": "The Coffeehouse"
+    },
+    {
+      "id": 4060,
+      "title": "Don't Fence Me In",
+      "description": "",
+      "ensemble": "jk_solo",
+      "media": "YouTube:9O1zjk9oTEs",
+      "composer": "Cole Porter, Robert Fletcher",
+      "copyright": "1934",
+      "poster": "DontFenceMeIn2023.jpg",
+      "recorded": "2022-12-24",
+      "collection": "coffeehouse"
+    },
+    {
+      "id": 3910,
+      "title": "Tears",
+      "ensemble": "jk_solo",
+      "media": "Tears.mp4",
+      "composer": "Django Reinhart",
+      "copyright": "1937",
+      "poster": "Tears.jpg",
+      "recorded": "2022-09-05",
+      "collection": "coffeehouse"
+    }
+  ],
+  "setListTitle": "Gypsy Jazz II"
+}

@@ -1,0 +1,68 @@
+{
+  "setList": [
+    {
+      "id": 3910,
+      "title": "Tears",
+      "ensemble": "jk_solo",
+      "media": "Tears.mp4",
+      "composer": "Django Reinhart",
+      "copyright": "1937",
+      "poster": "Tears.jpg",
+      "recorded": "2022-09-05",
+      "collection": "coffeehouse"
+    },
+    {
+      "id": 4600,
+      "title": "If You Never Come to Me",
+      "description": "Inútil Paisagem",
+      "ensemble": "jk_solo",
+      "media": "YouTube:3yxxDciY9Dw",
+      "composer": "Antonio Carlos Jobim",
+      "copyright": "1964",
+      "poster": "IfYouNever2024.jpg",
+      "recorded": "2024-11-16",
+      "collection": "coffeehouse",
+      "album": "The Coffeehouse"
+    },
+    {
+      "_id": 3210,
+      "id": 3210,
+      "title": "Besame Mucho (Tenor)",
+      "description": "Tenor madness!",
+      "ensemble": "jk_solo",
+      "media": "BesameMucho.mp4",
+      "composer": "Consuelo Vel&aacute;zquez - Sunny Skylar",
+      "copyright": 1940,
+      "poster": "BesameMucho.jpg",
+      "recorded": "2018-11-11",
+      "collection": "coffeehouse"
+    },
+    {
+      "id": 4320,
+      "title": "Corcavado",
+      "description": "",
+      "ensemble": "jk_solo",
+      "media": "YouTube:-OM1p_vynwo",
+      "composer": "Antonio Carlos Jobim",
+      "poster": "Corcovado2024.jpg",
+      "recorded": "2024-01-22",
+      "collection": "coffeehouse",
+      "album": "The Coffeehouse",
+      "copyright": "1960"
+    },
+    {
+      "id": 4350,
+      "title": "Coquette",
+      "description": "My new Swing 42 guitar is named \"Coquette.\"",
+      "ensemble": "jk_solo",
+      "media": "YouTube:JYgOJaGZVog",
+      "composer": "Johnny Green and Carmen Lombardo",
+      "copyright": "1928",
+      "poster": "Coquette2024.png",
+      "recorded": "2024-03-04",
+      "collection": "coffeehouse",
+      "album": "The Coffeehouse"
+    }
+  ],
+  "setListTitle": "JK & Riza"
+}

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/landing/favicon.ico"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="./landing/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./landing/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./landing/favicon-16x16.png">
+    <title>Ktor Madness</title>
+    <style>
+        body {
+            background: #c2c5dd;
+            margin: 0;
+            padding: 40px 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .logo-links {
+            display: flex;
+            gap: 40px;
+            margin-top: 40px;
+        }
+        .logo-links a {
+            text-align: center;
+            text-decoration: none;
+            color: #222;
+        }
+        .logo-links img {
+            border-radius: 12px;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+            width: 450px;
+            height: 470px;
+            transition: transform 0.2s;
+        }
+        .logo-links img:hover {
+            transform: scale(1.1);
+        }
+        h1 {
+            font-family: 'Roboto', sans-serif;
+            font-style: normal;
+            font-weight: 400;
+            color: #0c05af;
+            margin-bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Ktor Madness</h1>
+    <div class="logo-links">
+        <a href="/kindler" title="Kindler: book list">
+            <img src="./kindler_grab.png" alt="Kindler Logo" />
+            <div>Kindler: Book List</div>
+        </a>
+        <a href="/jkboxed" title="JKBoxed.com: home of the jk boxed set!">
+            <img src="./jkboxed_grab.png" alt="JKBoxed Logo" />
+            <div>JKBoxed.com</div>
+        </a>
+        <a href="/manager" title="Video and Setlist Manager">
+            <img src="./manager_grab.png" alt="Video and Serlist Manager" />
+            <div>Video Manager</div>
+        </a>
+    </div>
+</body>
+</html>

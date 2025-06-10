@@ -1,0 +1,81 @@
+{
+  "setList": [
+    {
+      "id": 3910,
+      "title": "Tears",
+      "ensemble": "jk_solo",
+      "media": "Tears.mp4",
+      "composer": "Django Reinhart",
+      "copyright": "1937",
+      "poster": "Tears.jpg",
+      "recorded": "2022-09-05",
+      "collection": "coffeehouse"
+    },
+    {
+      "id": 4600,
+      "title": "If You Never Come to Me",
+      "description": "Inútil Paisagem",
+      "ensemble": "jk_solo",
+      "media": "YouTube:3yxxDciY9Dw",
+      "composer": "Antonio Carlos Jobim",
+      "copyright": "1964",
+      "poster": "IfYouNever2024.jpg",
+      "recorded": "2024-11-16",
+      "collection": "coffeehouse",
+      "album": "The Coffeehouse"
+    },
+    {
+      "id": 4190,
+      "title": "Bésame Mucho",
+      "description": "",
+      "ensemble": "jk_solo",
+      "media": "YouTube:CQLBd_y08B8",
+      "composer": "Consuelo Velázquez",
+      "copyright": "1940",
+      "poster": "BesameMucho2023.jpg",
+      "recorded": "2023-06-26",
+      "collection": "",
+      "album": "The Coffeehouse"
+    },
+    {
+      "id": 4590,
+      "title": "Corcovado",
+      "description": "With my lovely bride!",
+      "ensemble": "special_guests",
+      "media": "YouTube:0-zSm59aB1g",
+      "composer": "Antonio Carlos Jobim",
+      "poster": "Cocovado2024.JPG",
+      "recorded": "2024-11-10",
+      "collection": "coffeehouse",
+      "album": "The Coffeehouse",
+      "copyright": "1960"
+    },
+    {
+      "id": 4080,
+      "title": "Coquette",
+      "description": "",
+      "ensemble": "jk_solo",
+      "media": "YouTube:jVucCuzjaM8",
+      "composer": "Johnny Green and Carmen Lombardo, lyrics by Gus Kahn",
+      "poster": "Coquette.jpg",
+      "recorded": "2023-04-23",
+      "collection": "",
+      "album": "The Coffeehouse",
+      "copyright": "1928"
+    },
+    {
+      "id": 4110,
+      "title": "That's All",
+      "description": "",
+      "ensemble": "jk_solo",
+      "media": "YouTube:DO3Q8uzVi2I",
+      "composer": "Alan Brandt, Bob Haymes",
+      "copyright": "1952",
+      "poster": "ThatsAll2023.jpg",
+      "recorded": "2023-07-09",
+      "collection": "",
+      "album": "The Coffeehouse"
+    }
+  ],
+  "setListTitle": "jk & Riza"
+}

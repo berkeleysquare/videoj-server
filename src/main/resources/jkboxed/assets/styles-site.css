@@ -1,0 +1,13 @@
+/* basic elements */
+
+html {
+    margin: 0;
+    /* setting border: 0 hoses ie6 win window inner well border */
+    padding: 0;
+}
+
+body {
+    min-width: 720px;
+    color: #93887a;
+    background-color: #110f34;
+}

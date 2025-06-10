@@ -1,0 +1,141 @@
+{
+  "setList": [
+    {
+      "id": 4020,
+      "title": "Mona Lisa",
+      "description": "",
+      "ensemble": "jk_solo",
+      "media": "YouTube:9O1zjk9oTEs",
+      "composer": "Ray Evans and Jay Livingston",
+      "copyright": 1949,
+      "poster": "MonaLisa.jpg",
+      "recorded": "2022-12-24",
+      "collection": "coffeehouse"
+    },
+    {
+      "id": 4040,
+      "title": "All the Things you Are",
+      "description": "",
+      "ensemble": "jk_solo",
+      "media": "YouTube:9diy7qZljw",
+      "composer": "Jerome Kern",
+      "copyright": 1937,
+      "poster": "AllTheThingsYouAre2023.jpg",
+      "recorded": "2022-02-23",
+      "collection": "coffeehouse"
+    },
+    {
+      "id": 4190,
+      "title": "Bésame Mucho",
+      "description": "",
+      "ensemble": "jk_solo",
+      "media": "YouTube:CQLBd_y08B8",
+      "composer": "Consuelo Velázquez",
+      "copyright": "1940",
+      "poster": "BesameMucho2023.jpg",
+      "recorded": "2023-06-26",
+      "collection": "",
+      "album": "The Coffeehouse"
+    },
+    {
+      "id": 4100,
+      "title": "All of Me",
+      "description": "",
+      "ensemble": "jk_solo",
+      "media": "YouTube:IoM52mzZ66Y",
+      "composer": "Seymour Simon",
+      "copyright": "1931",
+      "poster": "AllOfMe2023.jpg",
+      "recorded": "2023-07-09",
+      "collection": "",
+      "album": "The Coffeehouse"
+    },
+    {
+      "id": 3890,
+      "title": "Nuages",
+      "ensemble": "jk_solo",
+      "media": "Nuages.mp4",
+      "composer": "Django Reinhart",
+      "copyright": "1939",
+      "poster": "Nuages.jpg",
+      "recorded": "2022-08-14",
+      "collection": "coffeehouse"
+    },
+    {
+      "id": 4175,
+      "title": "Always",
+      "description": "",
+      "ensemble": "jk_solo",
+      "media": "YouTube:8DOgGjhlqx0",
+      "composer": "Irving Berlin",
+      "copyright": "1925",
+      "poster": "Always2023.jpg",
+      "recorded": "2023-06-20",
+      "collection": "",
+      "album": "The Coffeehouse"
+    },
+    {
+      "id": 4350,
+      "title": "Coquette",
+      "description": "My new Swing 42 guitar is named \"Coquette.\"",
+      "ensemble": "jk_solo",
+      "media": "YouTube:JYgOJaGZVog",
+      "composer": "Johnny Green and Carmen Lombardo",
+      "copyright": "1928",
+      "poster": "Coquette2024.png",
+      "recorded": "2024-03-04",
+      "collection": "coffeehouse",
+      "album": "The Coffeehouse"
+    },
+    {
+      "id": 4030,
+      "title": "My Funny Valentine",
+      "description": "Interspersed with Robin Nolan's El Puente",
+      "ensemble": "jk_solo",
+      "media": "YouTube:0L0VX6Vxok4",
+      "composer": "Richard Rodgers & Lorenz Hart",
+      "copyright": 1937,
+      "poster": "MyFunnyValentine2023.jpg",
+      "recorded": "2022-02-10",
+      "collection": "coffeehouse"
+    },
+    {
+      "id": 4110,
+      "title": "That's All",
+      "description": "",
+      "ensemble": "jk_solo",
+      "media": "YouTube:DO3Q8uzVi2I",
+      "composer": "Alan Brandt, Bob Haymes",
+      "copyright": "1952",
+      "poster": "ThatsAll2023.jpg",
+      "recorded": "2023-07-09",
+      "collection": "",
+      "album": "The Coffeehouse"
+    },
+    {
+      "id": 3980,
+      "title": "Autumn Leaves",
+      "description": "Q: What happens on Dec 21? A: \"Autumn Leaves\"",
+      "ensemble": "jk_solo",
+      "media": "YouTube:fImrdya368o",
+      "composer": "Joseph Kosma, French Lyrics  Jacques Prévert, English lyrics Johnny Mercer",
+      "copyright": 1945,
+      "poster": "AutumnLeaves2022.jpg",
+      "recorded": "2022-11-27",
+      "collection": "coffeehouse"
+    },
+    {
+      "id": 3970,
+      "title": "Manoir de mes Rêves",
+      "description": "Arr. Robin Nolan (with several jk liberties)",
+      "ensemble": "jk_solo",
+      "media": "YouTube:Rkz_RTYh1Dw",
+      "composer": "Django Reinhart",
+      "copyright": 1943,
+      "poster": "ManoirDeMesReves.jpg",
+      "recorded": "2022-11-05",
+      "collection": "coffeehouse"
+    }
+  ],
+  "setListTitle": "GypsyJazz I"
+}

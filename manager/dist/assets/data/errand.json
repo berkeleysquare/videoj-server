@@ -1,0 +1,194 @@
+{
+  "title": "Errand Boys",
+  "description": "The Errand Boys for Rhythm",
+  "assets": "http://jkboxed.com/liveatthecoffeehouse/assets/",
+  "media": "http://jkboxed.com/liveatthecoffeehouse/media/",
+  "ensembles": [
+    {
+      "id": "eb_live",
+      "text": "The Errand Boys (live)",
+      "collection": "errand_boys"
+    },
+    {
+      "id": "eb_demo",
+      "text": "The Errand Boys (demo)",
+      "collection": "errand_boys"
+    },
+    {
+      "id": "eb_holiday",
+      "text": "The Errand Boys (holiday)",
+      "collection": "errand_boys"
+    }
+  ],
+  "data": [
+    {
+      "_id": 1000,
+      "id": 1000,
+      "title": "These Foolish Things",
+      "description": "We started every set with this tune. Yet I still muff it. C'est La Vie.     ",
+      "ensemble": "eb_live",
+      "media": "eb_these_foolish_things.mp4",
+      "composer": "Holt Marvel, Jack Strachey",
+      "copyright": 1936,
+      "poster": "eb.jpg",
+      "recorded": "2012-12-26",
+      "collection": "errand_boys"
+    },
+    {
+      "_id": 1010,
+      "id": 1010,
+      "title": "Dindi",
+      "description": "One of my favorite Jobim tunes and several recognizable voices in the crowd.",
+      "ensemble": "eb_live",
+      "media": "eb_dindi.mp4",
+      "composer": "",
+      "copyright": 0,
+      "poster": "eb_2.jpg",
+      "recorded": "2012-11-01",
+      "collection": "errand_boys"
+    },
+    {
+      "_id": 1020,
+      "id": 1020,
+      "title": "It Might as Well be Spring",
+      "description": "The Errand Boys take a request from my brother-in-law, Bob.      Rodgers & Hammerstein",
+      "ensemble": "eb_live",
+      "media": "eb_it_might_as_well_be_spring.mp4",
+      "composer": "",
+      "copyright": 0,
+      "poster": "eb.jpg",
+      "recorded": "2012-12-03",
+      "collection": "errand_boys"
+    },
+    {
+      "_id": 1030,
+      "id": 1030,
+      "title": "Misty",
+      "description": "Our Song! (My wife's and mine, that is The Errand Boys' song was probably \"These Foolish Things.\")      Errol Garner &copy;1952",
+      "ensemble": "eb_live",
+      "media": "eb_misty.mp4",
+      "composer": "Errol Garner",
+      "copyright": 1952,
+      "poster": "eb_2.jpg",
+      "recorded": "2012-12-05",
+      "collection": "errand_boys"
+    },
+    {
+      "_id": 1040,
+      "id": 1040,
+      "title": "Errand Boys Demo: Berkeley Square",
+      "description": "Four tunes, short and sweet:     ",
+      "ensemble": "eb_demo",
+      "media": "eb_ANightingaleSangInBerkeleySquare.mp3",
+      "composer": "Eric Maschwitz, Manny Sherwin",
+      "copyright": 1939,
+      "poster": "eb_demo.jpg",
+      "recorded": "2013-01-04",
+      "collection": "errand_boys"
+    },
+    {
+      "_id": 1050,
+      "id": 1050,
+      "title": "Errand Boys Demo: Do Nothing 'till you Hear from Me",
+      "description": "Four tunes, short and sweet:     ",
+      "ensemble": "eb_demo",
+      "media": "eb_DoNothingTillYouHear.mp3",
+      "composer": "Duke Ellington, Bob Russel",
+      "copyright": 1940,
+      "poster": "eb_demo.jpg",
+      "recorded": "2013-01-04",
+      "collection": "errand_boys"
+    },
+    {
+      "_id": 1060,
+      "id": 1060,
+      "title": "Errand Boys Demo: These Foolish Things",
+      "description": "Four tunes, short and sweet:     ",
+      "ensemble": "eb_demo",
+      "media": "eb_DoNothingTillYouHear.mp3",
+      "composer": "Harry Link, Jack Strachey",
+      "copyright": 1936,
+      "poster": "eb_demo.jpg",
+      "recorded": "2013-01-04",
+      "collection": "errand_boys"
+    },
+    {
+      "_id": 1070,
+      "id": 1070,
+      "title": "Errand Boys Demo: Unforgettable",
+      "description": "Four tunes, short and sweet:     ",
+      "ensemble": "eb_demo",
+      "media": "eb_Unforgettable.mp3",
+      "composer": "Irving Gordon",
+      "copyright": 1951,
+      "poster": "eb_demo.jpg",
+      "recorded": "2013-01-04",
+      "collection": "errand_boys"
+    },
+    {
+      "_id": 1080,
+      "id": 1080,
+      "title": "Rudolf the Red Nosed Reindeer",
+      "description": "It's an Errand Boys Christmas 1999!",
+      "ensemble": "eb_holiday",
+      "media": "eb_rudolf.mp3",
+      "composer": "Johnny Marks",
+      "copyright": 1949,
+      "poster": "eb_xmas.jpg",
+      "recorded": "2013-01-04",
+      "collection": "errand_boys"
+    },
+    {
+      "_id": 1090,
+      "id": 1090,
+      "title": "The Christmas Song",
+      "description": "It's an Errand Boys Christmas 1999!",
+      "ensemble": "eb_holiday",
+      "media": "eb_xmassong.mp3",
+      "composer": "Mel Torme, Bob Wells",
+      "copyright": 1945,
+      "poster": "eb_xmas.jpg",
+      "recorded": "2013-01-04",
+      "collection": "errand_boys"
+    },
+    {
+      "_id": 1100,
+      "id": 1100,
+      "title": "Winter Wonderland",
+      "description": "It's an Errand Boys Christmas 1999!",
+      "ensemble": "eb_holiday",
+      "media": "eb_wintwond.mp3",
+      "composer": "Felix Bernard, Richard Smith",
+      "copyright": 1934,
+      "poster": "eb_xmas.jpg",
+      "recorded": "2013-01-04",
+      "collection": "errand_boys"
+    },
+    {
+      "_id": 1110,
+      "id": 1110,
+      "title": "Rockin' Around the Christmas Tree",
+      "description": "It's an Errand Boys Christmas 1999!",
+      "ensemble": "eb_holiday",
+      "media": "eb_rockinround.mp3",
+      "composer": "Johnny Marks",
+      "copyright": 1958,
+      "poster": "eb_xmas.jpg",
+      "recorded": "2013-01-04",
+      "collection": "errand_boys"
+    },
+    {
+      "_id": 1120,
+      "id": 1120,
+      "title": "Blue Christmas",
+      "description": "It's an Errand Boys Christmas 1999!",
+      "ensemble": "eb_holiday",
+      "media": "eb_bluexmas.mp3",
+      "composer": "Billy Hayes, Jay W. Johnson",
+      "copyright": 1957,
+      "poster": "eb_xmas.jpg",
+      "recorded": "2013-01-04",
+      "collection": "errand_boys"
+    }
+  ]
+}
