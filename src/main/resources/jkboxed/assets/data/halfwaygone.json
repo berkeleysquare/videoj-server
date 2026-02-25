@@ -1,152 +1,131 @@
 {
   "title": "Halfway Gone",
-  "description": "",
-  "assets": "http://jkboxed.com/liveatthecoffeehouse/assets/",
-  "media": "http://jkboxed.com/liveatthecoffeehouse/media/",
+  "collection": "halfwaygone",
+  "description": "Released in 1982 on Vinyl only",
+  "assets": "/media/images/",
+  "media": "/media/media/",
   "ensembles": [],
   "data": [
     {
-      "_id": 1000,
       "id": 1000,
       "title": "Halfway Gone",
       "description": "The title cut",
       "ensemble": "jk",
       "media": "halfway_gone.mp4",
       "composer": ". John Kranz",
-      "copyright": 1982,
+      "copyright": "1982",
       "poster": "halfway_gone.jpg",
-      "recorded": "2012-11-23",
-      "collection": "halfwaygone"
+      "recorded": "2012-11-23"
     },
     {
-      "_id": 1010,
       "id": 1010,
       "title": "No Friend of Mine",
       "description": "Probably the first song I have ever written. The great Henry Hudson III was a friend of a friend and did the sax solo for me. This was the first take, for which I have never forgiven him. My great friends G-Jo & Michelle did the background vocals.",
       "ensemble": "jk_solo",
       "media": "no_friend_of_mine.mp4",
       "composer": "John Kranz",
-      "copyright": 1982,
+      "copyright": "1982",
       "poster": "halfway_gon2.jpg",
-      "recorded": "2012-11-23",
-      "collection": "halfwaygone"
+      "recorded": "2012-11-23"
     },
     {
-      "_id": 1020,
       "id": 1020,
       "title": "Psychosomatic Blues",
       "description": "A great tune by my brother, Howard. Sugarchuck kills it on slide.",
       "ensemble": "jk_solo",
       "media": "jk-PsychosomaticBlues.mp3",
       "composer": "Howard Kranz",
-      "copyright": 1982,
+      "copyright": "1982",
       "poster": "halfway_gone.jpg",
-      "recorded": "2012-11-25",
-      "collection": "halfwaygone"
+      "recorded": "2012-11-25"
     },
     {
-      "_id": 1030,
       "id": 1030,
       "title": "No Foolin'",
       "description": "The changes of this song are a gateway drug to jazz; the lyrics are a mash up of two poems I'd written. The guitar solo is pretty good for me.      ",
       "ensemble": "jk_solo",
       "media": "no_foolin.mp4",
       "composer": "John Kranz",
-      "copyright": 1982,
+      "copyright": "1982",
       "poster": "halfway_gon3.jpg",
-      "recorded": "2012-11-25",
-      "collection": "halfwaygone"
+      "recorded": "2012-11-25"
     },
     {
-      "_id": 1040,
       "id": 1040,
       "title": "Casey's Last Ride",
       "description": "Sugarchuck -- acoustic guitar solo.",
       "ensemble": "jk_solo",
       "media": "jk-CaseysLastRide.mp3",
       "composer": "Kris Kristofferson",
-      "copyright": 1972,
+      "copyright": "1972",
       "poster": "halfway_gon4.jpg",
-      "recorded": "2012-11-25",
-      "collection": "halfwaygone"
+      "recorded": "2012-11-25"
     },
     {
-      "_id": 1050,
       "id": 1050,
       "title": "All of Me",
       "description": "Fell in love with this tune. These changes were jazz crack to a young jk",
       "ensemble": "jk_solo",
       "media": "jk-AllOfMe.mp3",
       "composer": "Seymour Simons",
-      "copyright": 1931,
+      "copyright": "1931",
       "poster": "halfway_gon2.jpg",
-      "recorded": "2012-11-25",
-      "collection": "halfwaygone"
+      "recorded": "2012-11-25"
     },
     {
-      "_id": 1060,
       "id": 1060,
       "title": "Napoleonne",
       "description": "Another great Howard Kranz tune. We loved playing it so much we couldn't stop rehearsing. Everybody fell in love with it.  ",
       "ensemble": "jk_solo",
       "media": "jk-Napoleonne.mp3",
       "composer": "Howard Kranz",
-      "copyright": 1982,
+      "copyright": "1982",
       "poster": "halfway_gon3.jpg",
-      "recorded": "2012-11-25",
-      "collection": "halfwaygone"
+      "recorded": "2012-11-25"
     },
     {
-      "_id": 1070,
       "id": 1070,
       "title": "Direction",
       "description": "Of course I stole teh line from Dylan. It needed its own tune.",
       "ensemble": "jk_solo",
       "media": "jk-Direction.mp3",
       "composer": "John Kranz",
-      "copyright": 1982,
+      "copyright": "1982",
       "poster": "halfway_gon2.jpg",
-      "recorded": "2012-11-25",
-      "collection": "halfwaygone"
+      "recorded": "2012-11-25"
     },
     {
-      "_id": 1080,
       "id": 1080,
       "title": "Too Beautiful for Words",
       "description": "",
       "ensemble": "jk_solo",
       "media": "jk-TooBeautifulForWords.mp3",
       "composer": "John Kranz",
-      "copyright": 1982,
+      "copyright": "1982",
       "poster": "halfway_gon5.jpg",
-      "recorded": "2012-11-25",
-      "collection": "halfwaygone"
+      "recorded": "2012-11-25"
     },
     {
-      "_id": 1090,
       "id": 1090,
       "title": "Love's Eyes",
       "description": "",
       "ensemble": "jk_solo",
       "media": "jk-LovesEyes.mp3",
       "composer": "John Kranz",
-      "copyright": 1982,
+      "copyright": "1982",
       "poster": "halfway_gon4.jpg",
-      "recorded": "2012-11-25",
-      "collection": "halfwaygone"
+      "recorded": "2012-11-25"
     },
     {
-      "_id": 1100,
       "id": 1100,
       "title": "Don't Look Back",
       "description": "",
       "ensemble": "jk_solo",
       "media": "jk-DontLookBack.mp3",
       "composer": "John Kranz",
-      "copyright": 1982,
+      "copyright": "1982",
       "poster": "halfway_gon2.jpg",
-      "recorded": "2012-11-25",
-      "collection": "halfwaygone"
+      "recorded": "2012-11-25"
     }
   ]
 }

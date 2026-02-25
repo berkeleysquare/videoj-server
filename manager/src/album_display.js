@@ -34,6 +34,8 @@ const albumDisplay = props => {
   const [defaultVideo, setDefaultVideo] = useState(album.defaultID || DEFAULT_ID)
 
   const saveVideo = newVid => {
+    console.log('Saving video', newVid);
+    console.log('Wrapped video', wrapIds(newVid));
     // remove if it exists
     const removed = videos.slice().filter(v => v.id != newVid.id);
     // add it

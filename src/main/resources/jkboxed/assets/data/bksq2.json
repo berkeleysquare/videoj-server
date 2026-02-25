@@ -2,269 +2,227 @@
   "title": "A Nightingale Sang",
   "collection": "bksq2",
   "description": "Berkeley Square: A Nightingale Sang",
-  "assets": "http://jkboxed.com/liveatthecoffeehouse/assets/",
-  "media": "http://jkboxed.com/liveatthecoffeehouse/media/",
-  "image": "berk2.png",
-  "defaultID": 1000,
+  "assets": "/media/images/",
+  "media": "/media/media/",
   "ensembles": [
     {
       "id": "berkeleysquare",
-      "text": "Berkeley Square",
-      "collection": "bksq2"
+      "text": "Berkeley Square"
     },
     {
       "id": "xmas",
-      "text": "Holiday",
-      "collection": "bksq2"
+      "text": "Holiday"
     }
   ],
   "data": [
     {
-      "_id": 1000,
       "id": 1000,
       "title": "Take the A Train",
       "description": "    ",
       "ensemble": "berkeleysquare",
       "media": "BerkeleySquare-02-TakeTheATrain.mp3",
       "composer": "Billy Strayhorn",
-      "copyright": 1939,
+      "copyright": "1939",
       "poster": "bksq2_illo.jpg",
-      "recorded": "2013-01-07",
-      "collection": "bksq2"
+      "recorded": "2013-01-07"
     },
     {
-      "_id": 1010,
       "id": 1010,
       "title": "I Won't Dance",
       "description": "    ",
       "ensemble": "berkeleysquare",
       "media": "BerkeleySquare-01-IWontDance.mp3",
       "composer": "Jerome Kern",
-      "copyright": 1934,
+      "copyright": "1934",
       "poster": "bksq2_illo.jpg",
-      "recorded": "2013-01-07",
-      "collection": "bksq2"
+      "recorded": "2013-01-07"
     },
     {
-      "_id": 1020,
       "id": 1020,
       "title": "You Don't Know Me",
       "description": "    ",
       "ensemble": "berkeleysquare",
       "media": "bksq2_you_dont_know_me.mp4",
       "composer": "Cindy Walker & Eddt Arnold",
-      "copyright": 1955,
+      "copyright": "1955",
       "poster": "bksq2_back.jpg",
-      "recorded": "2013-01-07",
-      "collection": "bksq2"
+      "recorded": "2013-01-07"
     },
     {
-      "_id": 1030,
       "id": 1030,
       "title": "Mean to Me",
       "description": "    ",
       "ensemble": "berkeleysquare",
       "media": "BerkeleySquare-04-MeanToMe.mp3",
       "composer": "Jerome Kern",
-      "copyright": 1934,
+      "copyright": "1934",
       "poster": "bksq2_inside.jpg",
-      "recorded": "2013-01-07",
-      "collection": "bksq2"
+      "recorded": "2013-01-07"
     },
     {
-      "_id": 1040,
       "id": 1040,
       "title": "Flyin' Home",
       "description": "    ",
       "ensemble": "berkeleysquare",
       "media": "BerkeleySquare-05-FlyinHome.mp3",
       "composer": "Lionel Hampton",
-      "copyright": 1957,
+      "copyright": "1957",
       "poster": "bksq2_kurt.jpg",
-      "recorded": "2013-01-07",
-      "collection": "bksq2"
+      "recorded": "2013-01-07"
     },
     {
-      "_id": 1050,
       "id": 1050,
       "title": "Lover Man",
       "description": "    ",
       "ensemble": "berkeleysquare",
       "media": "BerkeleySquare-06-LoverMan.mp3",
       "composer": "Jimmy Davis, Roger Ramirez, James Sherman",
-      "copyright": 1941,
+      "copyright": "1941",
       "poster": "bksq2_back.jpg",
-      "recorded": "2013-01-07",
-      "collection": "bksq2"
+      "recorded": "2013-01-07"
     },
     {
-      "_id": 1060,
       "id": 1060,
       "title": "I Wish You Love",
       "description": "    ",
       "ensemble": "berkeleysquare",
       "media": "bksq2_i_wish_you_love.mp4",
       "composer": "Charles Trenet",
-      "copyright": 1957,
+      "copyright": "1957",
       "poster": "bksq2_illo.jpg",
-      "recorded": "2013-01-07",
-      "collection": "bksq2"
+      "recorded": "2013-01-07"
     },
     {
-      "_id": 1070,
       "id": 1070,
       "title": "I Could Write a Book",
       "description": "    ",
       "ensemble": "berkeleysquare",
       "media": "BerkeleySquare-08-ICouldWriteaBook.mp3",
       "composer": "Rodgers & Hart",
-      "copyright": 1940,
+      "copyright": "1940",
       "poster": "bksq2_back.jpg",
-      "recorded": "2013-01-07",
-      "collection": "bksq2"
+      "recorded": "2013-01-07"
     },
     {
-      "_id": 1080,
       "id": 1080,
       "title": "In the Mood",
       "description": "    ",
       "ensemble": "berkeleysquare",
       "media": "BerkeleySquare-09-InTheMood.mp3",
       "composer": "Glenn Miller",
-      "copyright": 1939,
+      "copyright": "1939",
       "poster": "bksq2.jpg",
-      "recorded": "2013-01-07",
-      "collection": "bksq2"
+      "recorded": "2013-01-07"
     },
     {
-      "_id": 1090,
       "id": 1090,
       "title": "I'll Take Romance",
       "description": "    ",
       "ensemble": "berkeleysquare",
       "media": "BerkeleySquare-10-IllTakeRomance.mp3",
       "composer": "Ben Oakland, Oscar Hammerstein II",
-      "copyright": 1937,
+      "copyright": "1937",
       "poster": "bksq2_inside.jpg",
-      "recorded": "2013-01-07",
-      "collection": "bksq2"
+      "recorded": "2013-01-07"
     },
     {
-      "_id": 1100,
       "id": 1100,
       "title": "Do You Know What it Means",
       "description": "    ",
       "ensemble": "berkeleysquare",
       "media": "BerkeleySquare-11-DoYouKnowWhatItMeans.mp3",
       "composer": "Jackie Wilson",
-      "copyright": 1947,
+      "copyright": "1947",
       "poster": "bksq2_inside.jpg",
-      "recorded": "2013-01-07",
-      "collection": "bksq2"
+      "recorded": "2013-01-07"
     },
     {
-      "_id": 1110,
       "id": 1110,
       "title": "Ain't Misbehavin'",
       "description": "    ",
       "ensemble": "berkeleysquare",
       "media": "BerkeleySquare-12-AintMisbehavin.mp3",
       "composer": "Fats Waller",
-      "copyright": 1929,
+      "copyright": "1929",
       "poster": "bksq2_illo.jpg",
-      "recorded": "2013-01-07",
-      "collection": "bksq2"
+      "recorded": "2013-01-07"
     },
     {
-      "_id": 1120,
       "id": 1120,
       "title": "All of You",
       "description": "",
       "ensemble": "jk_solo",
       "media": "bksq2_all_of_you.mp4",
       "composer": "Cole Porter",
-      "copyright": 1954,
+      "copyright": "1954",
       "poster": "bksq2_cover.jpg",
-      "recorded": "2013-01-07",
-      "collection": "bksq2"
+      "recorded": "2013-01-07"
     },
     {
-      "_id": 1130,
       "id": 1130,
       "title": "Bye Bye Blackbird",
       "description": "",
       "ensemble": "berkeleysquare",
       "media": "bksq2_bye_bye_blackbird.mp4",
       "composer": "Ray Henderson & Mort Dixon",
-      "copyright": 1926,
+      "copyright": "1926",
       "poster": "bksq2.jpg",
-      "recorded": "2013-01-07",
-      "collection": "bksq2"
+      "recorded": "2013-01-07"
     },
     {
-      "_id": 1140,
       "id": 1140,
       "title": "You'd be so Nice to Come Home to",
       "description": "    ",
       "ensemble": "berkeleysquare",
       "media": "BerkeleySquare-15-YoudBeSoNiceToComeTo.mp3",
       "composer": "Cole Porter",
-      "copyright": 1943,
+      "copyright": "1943",
       "poster": "bksq2_back.jpg",
-      "recorded": "2013-01-07",
-      "collection": "bksq2"
+      "recorded": "2013-01-07"
     },
     {
-      "_id": 1150,
       "id": 1150,
       "title": "Christmas Song",
       "description": "    ",
       "ensemble": "xmas",
       "media": "xmas_song.mp3",
       "composer": "Mel Torme, Robert Wells",
-      "copyright": 1945,
+      "copyright": "1945",
       "poster": "bksq_xmas.jpg",
-      "recorded": "2002-12-07",
-      "collection": "bksq2"
+      "recorded": "2002-12-07"
     },
     {
-      "_id": 1160,
       "id": 1160,
       "title": "The Christmas Waltz",
       "description": "    ",
       "ensemble": "xmas",
       "media": "xmas_waltz.mp3",
       "composer": "Sammy Cahn, Jule Styne",
-      "copyright": 1954,
+      "copyright": "1954",
       "poster": "bksq_xmas.jpg",
-      "recorded": "2002-12-07",
-      "collection": "bksq2"
+      "recorded": "2002-12-07"
     },
     {
-      "_id": 1170,
       "id": 1170,
       "title": "I'll be Home for Christmas",
       "description": "    ",
       "ensemble": "xmas",
       "media": "xmas_home.mp3",
       "composer": "Kim Gannon, Walter Kent",
-      "copyright": 1943,
+      "copyright": "1943",
       "poster": "bksq_xmas.jpg",
-      "recorded": "2002-12-07",
-      "collection": "bksq2"
+      "recorded": "2002-12-07"
     },
     {
-      "_id": 1180,
       "id": 1180,
       "title": "Christmas Is",
       "description": "    ",
       "ensemble": "xmas",
       "media": "xmas_is.mp3",
       "composer": "Percy Faith, Spence Maxwell",
-      "copyright": 1966,
+      "copyright": "1966",
       "poster": "bksq_xmas.jpg",
-      "recorded": "2002-12-07",
-      "collection": "bksq2"
+      "recorded": "2002-12-07"
     }
   ]
 }

@@ -14,6 +14,7 @@ data class AlbumPayload(
     val description: String,
     val assets: String,
     val media: String,
+    val defaultID: Int,
     val ensembles: List<EnsembleItem>,
     val data: List<VideoItem>
 ) {
@@ -42,7 +43,8 @@ data class VideoItem(
     val copyright: String? = null,
     val poster: String? = null,
     val recorded: String? = null,
-    val album: String? = null
+    val album: String? = null,
+    val aspectRatio: String? = null
 )
 
 @Serializable
@@ -50,4 +52,45 @@ data class EnsembleItem(
     val id: String,
     val text: String,
     val collection: String? = null
+)
+
+@Serializable
+data class FileEvent(
+    val jobId: String,
+    val eventClass: String,
+    val eventType: String,
+    val timeStamp: Long,
+    val payload: EventPayload
+)
+
+@Serializable
+data class EventPayload(
+    val type: String,
+    val uuid: String,
+    val fileId: String,
+    val fileName: String,
+    val jobId: String,
+    val jobType: String,
+    val targetUri: String,
+    val status: String,
+    val statusMessage: String
+)
+
+@Serializable
+data class JobEvent(
+    val jobId: String,
+    val eventClass: String,
+    val eventType: String,
+    val timeStamp: Long,
+    val payload: JobPayload
+)
+
+@Serializable
+data class JobPayload(
+    val type: String,
+    val uuid: String,
+    val jobId: String,
+    val jobType: String,
+    val status: String,
+    val statusMessage: String
 )

@@ -1,202 +1,173 @@
 {
   "title": "Berkeley Square",
+  "collection": "bksq1",
   "description": "Berkeley Square",
-  "assets": "http://jkboxed.com/liveatthecoffeehouse/assets/",
-  "media": "http://jkboxed.com/liveatthecoffeehouse/media/",
+  "assets": "/media/images/",
+  "media": "/media/media/",
   "ensembles": [
     {
       "id": "berkeleysquare",
-      "text": "Berkeley Square",
-      "collection": "bksq"
+      "text": "Berkeley Square"
     },
     {
       "id": "holiday",
-      "text": "Holiday",
-      "collection": "bksq"
+      "text": "Holiday"
     }
   ],
   "data": [
     {
-      "_id": 1000,
       "id": 1000,
       "title": "All of Me",
       "description": "",
       "ensemble": "berkeleysquare",
       "media": "bksq_all_of_me.mp4",
       "composer": " Seymour Simons",
-      "copyright": 1931,
+      "copyright": "1931",
       "poster": "bksq.jpg",
-      "recorded": "2013-01-08",
-      "collection": "bksq"
+      "recorded": "2013-01-08"
     },
     {
-      "_id": 1010,
       "id": 1010,
       "title": "Scotch & Soda",
       "description": "",
       "ensemble": "berkeleysquare",
       "media": "BerkeleySquare-ScotchAndSoda.mp3",
       "composer": "Dave Guard",
-      "copyright": 1958,
+      "copyright": "1958",
       "poster": "bksq_back.jpg",
-      "recorded": "2013-01-08",
-      "collection": "bksq"
+      "recorded": "2013-01-08"
     },
     {
-      "_id": 1020,
       "id": 1020,
       "title": "A Nightingale Sang in Berkeley Square",
       "description": "",
       "ensemble": "berkeleysquare",
       "media": "BerkeleySquare-ANightingaleSangInBerkeleySquare.mp3",
       "composer": "Eric Maschwitz, Manning Sherwin",
-      "copyright": 1939,
+      "copyright": "1939",
       "poster": "bksq_inside.jpg",
-      "recorded": "2013-01-08",
-      "collection": "bksq"
+      "recorded": "2013-01-08"
     },
     {
-      "_id": 1030,
       "id": 1030,
       "title": "Since I Fell",
       "description": "",
       "ensemble": "berkeleysquare",
       "media": "BerkeleySquare-SinceIFell.mp3",
       "composer": "Buddy Johnson",
-      "copyright": 1945,
+      "copyright": "1945",
       "poster": "bksq_inside2.jpg",
-      "recorded": "2013-01-08",
-      "collection": "bksq"
+      "recorded": "2013-01-08"
     },
     {
-      "_id": 1040,
       "id": 1040,
       "title": "Frim Fram Sauce",
       "description": "",
       "ensemble": "jk_solo",
       "media": "bksq_frim_fram_sauce.mp4",
       "composer": "Redd Evans & Joe Ricardel",
-      "copyright": 1945,
+      "copyright": "1945",
       "poster": "bksq_inside2.jpg",
-      "recorded": "2013-01-08",
-      "collection": "bksq"
+      "recorded": "2013-01-08"
     },
     {
-      "_id": 1050,
       "id": 1050,
       "title": "Willow Weep for Me",
       "description": "",
       "ensemble": "berkeleysquare",
       "media": "BerkeleySquare-WillowWeepForMe.mp3",
       "composer": "Ann Ronnell",
-      "copyright": 1932,
+      "copyright": "1932",
       "poster": "bksq_back.jpg",
-      "recorded": "2013-01-08",
-      "collection": "bksq"
+      "recorded": "2013-01-08"
     },
     {
-      "_id": 1060,
       "id": 1060,
       "title": "All the Things you Are",
       "description": "    ",
       "ensemble": "berkeleysquare",
       "media": "bksq_all_the_things_you_are.mp4",
       "composer": "Jerome Kern",
-      "copyright": 1939,
+      "copyright": "1939",
       "poster": "bksq_back.jpg",
-      "recorded": "2013-01-08",
-      "collection": "bksq"
+      "recorded": "2013-01-08"
     },
     {
-      "_id": 1070,
       "id": 1070,
       "title": "September Song",
       "description": "",
       "ensemble": "berkeleysquare",
       "media": "BerkeleySquare-SeptemberSong.mp3",
       "composer": "Kurt Weill, AMxwell ANderson",
-      "copyright": 1938,
+      "copyright": "1938",
       "poster": "bksq.jpg",
-      "recorded": "2013-01-08",
-      "collection": "bksq"
+      "recorded": "2013-01-08"
     },
     {
-      "_id": 1080,
       "id": 1080,
       "title": "Fly Me to the Moon / Corcovado",
       "description": "",
       "ensemble": "berkeleysquare",
       "media": "BerkeleySquare-Flymetothemoon.mp3",
       "composer": "Bart Howard / Antonio Calos Jobim",
-      "copyright": 1960,
+      "copyright": "1960",
       "poster": "bksq_inside.jpg",
-      "recorded": "2013-01-08",
-      "collection": "bksq"
+      "recorded": "2013-01-08"
     },
     {
-      "_id": 1090,
       "id": 1090,
       "title": "But Beautiful",
       "description": "",
       "ensemble": "berkeleysquare",
       "media": "BerkeleySquare-ButBeautiful.mp3",
       "composer": "Jimmy Van Huesen, Johnny Burke",
-      "copyright": 1947,
+      "copyright": "1947",
       "poster": "bksq_inside2.jpg",
-      "recorded": "2013-01-08",
-      "collection": "bksq"
+      "recorded": "2013-01-08"
     },
     {
-      "_id": 1100,
       "id": 1100,
       "title": "I'm Confessin'",
       "description": "",
       "ensemble": "berkeleysquare",
       "media": "BerkeleySquare-ImConfessin.mp3",
       "composer": "Al Neiburg, Ellis Reynolds",
-      "copyright": 1929,
+      "copyright": "1929",
       "poster": "bksq_back.jpg",
-      "recorded": "2013-01-08",
-      "collection": "bksq"
+      "recorded": "2013-01-08"
     },
     {
-      "_id": 1110,
       "id": 1110,
       "title": "When Sunny Gets Blue",
       "description": "",
       "ensemble": "berkeleysquare",
       "media": "bksq_when_sunny_gets_blue.mp4",
       "composer": "Jack Segal & Marvin Fisher",
-      "copyright": 1946,
+      "copyright": "1946",
       "poster": "bksq_inside.jpg",
-      "recorded": "2013-01-08",
-      "collection": "bksq"
+      "recorded": "2013-01-08"
     },
     {
-      "_id": 1120,
       "id": 1120,
       "title": "Rockin' Around the Christmas Tree",
       "description": "",
       "ensemble": "holiday",
       "media": "xmas00_rockin_around.mp3",
       "composer": "Johnny Marks",
-      "copyright": 1958,
+      "copyright": "1958",
       "poster": "eb_xmas00.jpg",
-      "recorded": "2000-01-08",
-      "collection": "bksq"
+      "recorded": "2000-01-08"
     },
     {
-      "_id": 1130,
       "id": 1130,
       "title": "Rudolph, the Red Nosed Reindeer",
       "description": "",
       "ensemble": "holiday",
       "media": "xmas00_rudolph.mp3",
       "composer": "Johnny Marks",
-      "copyright": 1949,
+      "copyright": "1949",
       "poster": "eb_xmas00.jpg",
-      "recorded": "2000-01-08",
-      "collection": "bksq"
+      "recorded": "2000-01-08"
     }
   ]
 }

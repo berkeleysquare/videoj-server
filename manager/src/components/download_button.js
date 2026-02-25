@@ -7,6 +7,7 @@ import {createResource} from "../common/actions";
 
 const groomVideoJson = (item) => {
   item.copyright = item.copyright != null ? String(item.copyright) : "";
+  item.aspectRatio = item.aspectRatio != null ? String(item.aspectRatio) : "1.33";
   // Optionally, remove fields not in AlbumPayload (like _id, error, fetching, etc.)
   delete item._id;
   delete item.error;
@@ -26,6 +27,7 @@ const groomAlbumJson = (data) => {
       collection: data.collection || "",
       description: data.description || "",
       assets: data.assets || "",
+      defaultID: data.defaultID || "",
       media: data.media || "",
       ensembles: Array.isArray(data.ensembles) ? data.ensembles.map(e => ({id: e.id, text: e.text})) : [],
       data: data.data || []
@@ -79,6 +81,8 @@ const downloadDataButton = props => {
       </a>
     </>);
   }
+
+  console.log('Prepared payload for download:', payload);
 
   // for all other types, we use the createResource action
   return (

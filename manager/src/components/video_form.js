@@ -33,6 +33,11 @@ export const wrapIds = vid => {
   };
 };
 
+const aspectRatioOptions = [
+  {id: '1.77', text: '16:9'},
+  {id: '1.33', text: '4:3'},
+];
+
 const videoForm = props  => {
   const {initialValues, ensembles, closeDialog, onSubmit } = props;
 
@@ -107,6 +112,14 @@ const videoForm = props  => {
              | <a href={'#'} onClick={() => form.mutators.setMediaPrefix(['', YouTubePrefix])}>{YouTubePrefix}</a>           
              | <a href={'#'} onClick={() => form.mutators.setMediaPrefix(['', VimeoPrefix])}>{VimeoPrefix}</a>
             <br />
+            <Picker name={'aspectRatio'}
+              label={'Aspect Ratio'}
+              items={aspectRatioOptions}
+              fkey={i => i.id}
+              ftext={i => i.text}
+            />
+            <br />
+
             <DateField name={'recorded'}
                        label={'Recorded Date'}/>
             <br />
